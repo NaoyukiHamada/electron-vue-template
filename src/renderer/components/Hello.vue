@@ -4,6 +4,9 @@ const msg = 'Electron + Vue3 template';
 
 <template>
   <div id="hello">
+    <h1 class="text-3xl font-bold underline">
+      Hello world!
+    </h1>
     <img src="https://vuejs.org/images/logo.png">
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
